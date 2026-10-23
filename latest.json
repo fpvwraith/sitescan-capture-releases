@@ -1,0 +1,7 @@
+{
+ "versionCode": 107,
+ "versionName": "0.2.7",
+ "apk": "SiteScanCapture-107.apk",
+ "sha256": "432d63576dcd5d93e58d5259a0b749b65e6f5433160b4ac79069b7d2f7aea559",
+ "notes": "SiteScan: lens data, steadier exposure and a too-fast warning for phone captures"
+}
