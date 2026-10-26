@@ -1,0 +1,7 @@
+{
+ "versionCode": 109,
+ "versionName": "0.2.9",
+ "apk": "SiteScanCapture-109.apk",
+ "sha256": "02a62b4bc4c84c2aee2c4d65da87ef4424a514faee239a570d97b2ef9adaf85e",
+ "notes": "SiteScan: align repeat captures of a site, so compare shows the same place"
+}
